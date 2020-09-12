@@ -10,23 +10,22 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-
+ theme                  : "minimal-mistakes-jekyll"
+ remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "neon"
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jeevita."
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+subtitle                 : "An amazing website made by an amazing girl."
+name                     : "Jeevita."
+description              : "A website to show my accomplishments."
+url                      : "https://Jeevita7812.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "Jeevita7812.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -39,12 +38,12 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-light"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : # "master"
+    branch               : "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
@@ -93,15 +92,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Jeevita"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Visakhapatnam, India"
+  email            : "Jeevita7812@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "Jeevita7812@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -113,7 +112,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Jeevita7812/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -129,7 +128,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Jeevita7812/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
